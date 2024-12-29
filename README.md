@@ -1,20 +1,13 @@
 # Security Bank
 
-Proyek ini adalah aplikasi Python yang dirancang untuk menjaga keamanan dan privasi data pengguna, seperti data bank. Aplikasi ini mencakup fitur enkripsi dan dekripsi data, autentikasi pengguna, serta penyimpanan data yang aman.
+Aplikasi Python sederhana yang dirancang untuk menjaga keamanan dan privasi data pengguna, seperti data bank.
+Aplikasi ini mencakup fitur enkripsi dan dekripsi data, autentikasi pengguna, serta penyimpanan data.
 
 ## Fitur
 
-- **Autentikasi pengguna**: Memastikan hanya pengguna yang terautentikasi yang bisa mengakses aplikasi.
-- **Enkripsi data**: Data yang disimpan akan dienkripsi dengan kunci khusus menggunakan algoritma kriptografi.
-- **Penyimpanan data**: Data terenkripsi disimpan ke dalam file dan dapat diambil serta didekripsi.
-
-## Instalasi
-
-1. Clone repositori ini atau buat folder proyek dengan struktur yang sesuai.
-   
-2. Masuk ke direktori proyek menggunakan terminal atau command prompt:
-   ```bash
-   cd path/to/data_bank_security_project
+- **Autentikasi pengguna**
+- **Enkripsi data**
+- **Penyimpanan data**
 
 ## Hasil Output
 
