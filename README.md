@@ -24,16 +24,10 @@ Menu:
 3. Keluar
 
 Pilih opsi: 1
-Masukkan data yang ingin disimpan: Data yang ingin disimpan di dalam bank
-Data berhasil disimpan dengan aman.
-
-Menu:
-1. Simpan Data
-2. Ambil Data
-3. Keluar
+Masukkan data yang ingin disimpan: ...
 
 Pilih opsi: 2
-Data yang disimpan: Data yang ingin disimpan di dalam bank
+Masukkan data yang ingin diambil: ...
 
 Terima kasih. Program selesai.
 
